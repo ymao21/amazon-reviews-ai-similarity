@@ -1,0 +1,16 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+data/
+datasets/
+*.parquet
+*.csv
+*.tsv
+*.jsonl
+*.log
