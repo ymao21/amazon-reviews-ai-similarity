@@ -1,6 +1,6 @@
 # Amazon Reviews Big Data Similarity Analysis
 
-This repo contains the code for my Big Data and Cloud Computing final project. I worked with a very large Amazon Reviews Archive: approximately **65 million customer reviews** and about **52.4 GiB** of nested review and product metadata stored in Google Cloud Storage.
+This repo contains the code for my Big Data and Cloud Computing final project, completed as part of coursework at the **University of Chicago**. I worked with a very large Amazon Reviews Archive: approximately **65 million customer reviews** and about **52.4 GiB** of nested review and product metadata stored in Google Cloud Storage.
 
 The main deliverable in this repo is the Jupyter notebook. The presentation is included as a summary of results, but the important part is the data engineering and analysis pipeline built in PySpark: reading cloud-hosted Parquet data, cleaning and joining large nested datasets, saving intermediate outputs, running distributed aggregations, and applying similarity analysis to review text.
 
